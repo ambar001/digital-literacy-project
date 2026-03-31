@@ -33,7 +33,7 @@ Prepared a case study on phishing and a prevention checklist for safe online pra
 ---
 
 ## 🔗 Useful Links
-- Google Form: [Paste your link here]
+- Google Form: (https://docs.google.com/forms/d/e/1FAIpQLSeC27pjP2RlX4bhrQ0svRPzXjKraJhQFbaNalwd4AzuWNK4FQ/viewform?usp=dialog)
 
 ---
 
